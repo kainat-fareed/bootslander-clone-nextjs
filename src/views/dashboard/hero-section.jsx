@@ -1,7 +1,7 @@
 import { Icon } from "@iconify/react";
 import Image from "next/image";
 import React from "react";
-import HeroImg from "../../../public/hero-img.png"
+import HeroImg from "../../../public/hero-img.png";
 
 const HeroSection = () => {
   return (
